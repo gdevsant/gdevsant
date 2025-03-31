@@ -4,13 +4,11 @@
 - 🫡 Procurando uma oportunidade na área de programação 
 - 😄 Pronouns: ele/dele
   
-<div style="display: inline_block>
+<div>
   <a href="https://github.com/gdevsant/github-readme-stats">
-  <img height=200 align="inline" src="https://github-readme-stats.vercel.app/api?username=gdevsant&theme=transparent" />
-</a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gdevsant&theme=transparent" /></a>
 <a href="https://github.com/gdevsant/convoychat">
-  <img height=200 align="inline" src="https://github-readme-stats.vercel.app/api/top-langs?username=gdevsant&layout=compact&theme=transparent" />
-</a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gdevsant&hide_progress=true)&theme=transparent" /></a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
