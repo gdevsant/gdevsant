@@ -1,8 +1,9 @@
-## Olá ! Meu nome é Guilherme Santana.
+## 👨‍💻 Guilherme Santana 
 
-- 😏 Estou estudando front-end e python 
-- 🫡 Procurando uma oportunidade na área de programação 
-- 😄 Pronouns: ele/dele
+- 💡 **Interesses**: Desenvolvimento Web, Back-End, APIs e Ciência de Dados.
+- 📌 **Atualmente**: Expandindo conhecimentos em frameworks e boas práticas de software.
+- 🚀 **Objetivo**: Construir aplicações robustas e contribuir para projetos inovadores.
+  
   
 <div>
   <a href="https://github.com/gdevsant/github-readme-stats">
