@@ -1,15 +1,15 @@
-## Olá Mundo! Meu nome é Guilherme Santana.
+## Olá ! Meu nome é Guilherme Santana.
 
 - 😏 Estou estudando front-end e python 
 - 🫡 Procurando uma oportunidade na área de programação 
 - 😄 Pronouns: ele/dele
   
-<div>
+<div style="display: inline_block>
   <a href="https://github.com/gdevsant/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gdevsant&theme=transparent" />
+  <img height=200 align="inline" src="https://github-readme-stats.vercel.app/api?username=gdevsant&theme=transparent" />
 </a>
 <a href="https://github.com/gdevsant/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gdevsant&layout=compact&theme=transparent" />
+  <img height=200 align="inline" src="https://github-readme-stats.vercel.app/api/top-langs?username=gdevsant&layout=compact&theme=transparent" />
 </a>
 </div>
 <div style="display: inline_block"><br>
