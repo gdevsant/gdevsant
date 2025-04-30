@@ -1,6 +1,6 @@
-## 👨‍💻 Guilherme Santana 
+## 👨‍💻 Guilherme Vieira 
 
-- 💡 **Interesses**: Desenvolvimento Web, Back-End, APIs e Ciência de Dados.
+- 💡 **Interesses**: Desenvolvimento Web, APIs e Ciência de Dados.
 - 📌 **Atualmente**: Expandindo conhecimentos em frameworks e boas práticas de software.
 - 🚀 **Objetivo**: Construir aplicações robustas e contribuir para projetos inovadores.
   
